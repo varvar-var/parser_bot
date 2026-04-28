@@ -6,9 +6,9 @@
 - `/start` — приветствие
 
 ## 🛠 Технологии
-- Python 3.[x]
+- Python 3.12
 - pyTelegramBotAPI (telebot)
-- [Другие библиотеки: requests, BeautifulSoup, SQLite3 и т.п.]
+- dotenv
 
 ## 📦 Установка и запуск
 1. Клонируйте репозиторий:
